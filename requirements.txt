@@ -1,0 +1,2 @@
+# This project uses Python 3.11 built-in standard libraries only.
+# No external third-party dependencies are required.
